@@ -5,7 +5,7 @@ module.exports = {
         ecmaFeatures: { jsx: true },
         ecmaVersion: 2019,
         sourceType: 'module',
-        equireConfigFile: false
+        requireConfigFile: false
     },
     env: {
         browser: true,
